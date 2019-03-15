@@ -11,13 +11,13 @@
  
 # ---- availability domain (1, 2 or 3)
 
-     AD = "1"
+     #AD = "1"
      # ---- Authorized public IPs ingress (0.0.0.0/0 means all Internet)
-     authorized_ips="0.0.0.0/0"
+     #authorized_ips="0.0.0.0/0"
 
  
 # -- variables for BM/VM creation
 
      #BootStrapFile_ol7 = "/Users/jnguyent/Documents/Terraform/init-script/bootstrap_ol7"
-     ssh_public_key_file_ol7 = "~/Desktop/SSH/Terra_UInstance.pub"
+     #ssh_public_key_file_ol7 = "~/Desktop/SSH/Terra_UInstance.pub"
 
