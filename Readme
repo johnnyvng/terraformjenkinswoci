@@ -1,0 +1,6 @@
+These files are meant to create an instance using a custom image uploaded from a local host.
+1. creating a VCN with security lists, RT, subnet, etc.
+2. Create a bucket to store the object
+3. Upload the image to the bucket as an object
+4. Export the image to be a custom image
+5. Create a VM using the exported image.
